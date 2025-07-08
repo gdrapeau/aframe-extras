@@ -1,4 +1,4 @@
-import { ColladaLoader } from 'three/addons/loaders/ColladaLoader.js';
+import { ColladaLoader } from 'three/examples/jsm/loaders/ColladaLoader.js';
 THREE.ColladaLoader = ColladaLoader;
 
 /**
